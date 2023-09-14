@@ -6,6 +6,8 @@ About me: VC turned software engineer. Previously sold satellite data as a Solut
 <br>
 <a href="mailto:mishabansal7@gmail.com" target="_blank">Email</a>
 
+Currently Reading:
+![image](https://github.com/mishkebab/mishkebab/assets/111409093/f1b08ebb-208c-474f-8342-845fd2d7d826)
 
 
 <!--
