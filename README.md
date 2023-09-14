@@ -9,7 +9,7 @@ About me: VC turned software engineer. Previously sold satellite data as a Solut
 Currently Reading:
 <br>
 <br> 
-<img src="https://github.com/mishkebab/mishkebab/assets/111409093/f1b08ebb-208c-474f-8342-845fd2d7d826" width="125">
+<img src="https://github.com/mishkebab/mishkebab/assets/111409093/5c22107f-0250-4d2c-a7d4-edadb4c4c615" width="125">
 
 
 <!--
