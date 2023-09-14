@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me: VC turned software engineer. Interested in tech that is going to change the world. Can usually be found outdoors if not coding.
+About me: VC turned software engineer. Previously sold satellite data as a Solutions Engineer at Orbital Insight. Interested in tech that is going to change the world. Can usually be found outdoors if not coding.
 
 <a href="https://www.mishabansal.com/" target="_blank">Portfolio</a>
 <br>
