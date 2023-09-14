@@ -4,7 +4,8 @@ About me: VC turned software engineer. Previously sold satellite data as a Solut
 
 <a href="https://www.mishabansal.com/" target="_blank">Portfolio</a>
 <br>
-Email: mishabansal7@gmail.com
+<a href="mailto:mishabansal7@gmail.com" target="_blank">Email</a>
+
 
 
 <!--
