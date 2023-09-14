@@ -2,7 +2,7 @@
 
 About me: VC turned software engineer. Interested in tech that is going to change the world. Can usually be found outdoors if not coding.
 
-<a href="www.mishabansal.com" target="_blank">Portfolio</a>
+<a href="https://www.mishabansal.com/" target="_blank">Portfolio</a>
 
 
 
