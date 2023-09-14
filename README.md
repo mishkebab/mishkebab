@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+About me: VC turned software engineer. Interested in tech that is going to change the world. Can usually be found outdoors if not coding.
+
+<a href="www.mishabansal.com" target="_blank">Portfolio</a>
+
+
+
 <!--
 **mishkebab/mishkebab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
